@@ -1,0 +1,11 @@
+body {
+    background-color: #161616;
+}
+
+.g {
+    filter: invert(1);
+}
+
+.foo {
+    background-color: #1e8f3e;
+}
